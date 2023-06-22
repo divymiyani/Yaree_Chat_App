@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242926044459",
+    "firebase_url": "https://yareechatapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "yareechatapp",
+    "storage_bucket": "yareechatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242926044459:android:4167a83ea28b5d81c4b16e",
+        "android_client_info": {
+          "package_name": "com.example.yaree_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242926044459-cgk8bqqehsnk45h5ha4arghviva01aq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yaree_chat_app",
+            "certificate_hash": "6190dd506d40687436b0292aa64e6926b7417aaa"
+          }
+        },
+        {
+          "client_id": "242926044459-uvarnqhkiscb3q0h27nj0pr41j818060.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FGqqhr5dEWhT3EjrEp1a45Lg43M8Igg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242926044459-9uvmn29sbg5hjolk6ru6jnuvf7ns58f3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "242926044459-1td4s09tacam0t3ct0vt5vuh6mguoq2q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yareeChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
